@@ -7,17 +7,17 @@
 
 @font-face {
     font-family: "Poppins Regular";
-    src: url(/fonts/Poppins-Regular.8081832f.ttf) format("truetype");
+    src: url(/fonts/Poppins-Regular.ttf) format("truetype");
 }
 
 @font-face {
     font-family: "Poppins Italic";
-    src: url(/fonts/Poppins-Italic.ce3fff31.ttf) format("truetype");
+    src: url(/fonts/Poppins-Italic.ttf) format("truetype");
 }
 
 @font-face {
     font-family: "Poppins Bold";
-    src: url(/fonts/Poppins-Bold.404e299b.ttf) format("truetype");
+    src: url(/fonts/Poppins-Bold.ttf) format("truetype");
 }
 
 html {
