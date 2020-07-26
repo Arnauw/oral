@@ -70,6 +70,16 @@ h2 {
 .container-1 li, .container-2 li, .container-3 li, .container-4 li {
     margin-left: 40px;
     margin-top: 40px;
+
+}
+
+span{
+    transition: background-color 0.5s, color 0.5s;
+}
+
+li span:hover{
+    background-color: black;
+    color: white;
 }
 
 footer {
